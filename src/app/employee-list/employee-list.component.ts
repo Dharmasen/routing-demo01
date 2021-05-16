@@ -4,7 +4,7 @@ import { Component, OnInit } from '@angular/core';
   selector: 'app-employee-list',
   template: `
     <p>
-      employee-list works!
+      employee-list working!
     </p>
   `,
   styles: []

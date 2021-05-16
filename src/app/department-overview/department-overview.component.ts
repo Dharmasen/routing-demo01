@@ -4,7 +4,7 @@ import { Component, OnInit } from '@angular/core';
   selector: 'app-department-overview',
   template: `
     <p>
-      department-overview works!
+      department-overview working!
     </p>
   `,
   styles: []
